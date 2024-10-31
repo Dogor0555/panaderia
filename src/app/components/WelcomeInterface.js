@@ -71,7 +71,7 @@ const WelcomeInterface = () => {
                 La producción implica la planificación y ejecución de tareas para transformar 
                 materias primas en productos finales, optimizando recursos y tiempo. El 
                 empaquetado, por su parte, protege los productos, facilita su manejo y les da 
-                valor agregado al mejorar su presentación.
+                valor agregado al mejorar su presentaciónnnn.
               </p>
             </div>
           </div>
